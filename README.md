@@ -31,4 +31,3 @@
     <a href="https://www.instagram.com/leo_danave/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt=""></a>
 </h1>
 
-![snake gif](https://github.com/leodanave/leodanave/blob/output/github-contribution-grid-snake.svg)
