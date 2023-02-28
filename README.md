@@ -7,13 +7,11 @@
 - 📧 Contato: <span style="color: rgb(0, 202, 216);">leonardo.nave@sptech.school
 
 <br>
-<div>
+<!-- <div>
     <a href="beacons.ai/leodanave">
     <img height="150" src="https://github-readme-stats.vercel.app/api?username=leodanave&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leodanave&layout=compact&langs_count=16&theme=tokyonight"/>
-</div>
-
-<br>
+</div> -->
 
 <div>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="">
