@@ -10,7 +10,7 @@
 <div>
     <a href="beacons.ai/leodanave">
     <img height="150" src="https://github-readme-stats.vercel.app/api?username=leodanave&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guileshi&layout=compact&langs_count=16&theme=tokyonight"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leodanave&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
 
 <div>
