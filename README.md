@@ -3,7 +3,7 @@
 
 - 📚 Formado em Análise e Desenvolvimento de Sistemas
 - 🧾 UX/UI Designer / Software Developer / Data Analyst
-- <span style="color: white;"><b></></b></span> Atualmente trabalhando como desenvolvedor de software
+- <span style="color: white;"><b></></b></span> Atualmente, tenho o foco de transicionar minha carreira para a área de dados, pois é um setor que tem me cativado bastante e, sinto que posso crescer profissionalmente, juntamente com um ambiente que valorize a inovação e o desenvolvimento contínuo.
 - 📧 Contato: <span style="color: rgb(0, 202, 216);">leonardodanave@outlook.com
 
 <br>
