@@ -30,6 +30,5 @@
 <h1>
     <span style="color: white;">Social Media <br><br>
     <a href="https://www.linkedin.com/in/leonardo-da-nave-a44039200/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=""></a>
-    <a href="https://www.instagram.com/leo_danave/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt=""></a>
 </h1>
 
