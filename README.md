@@ -1,34 +1,25 @@
+<h1 style="color: white;"> Leonardo da Nave 👋 </h1>
 
-<h1 style="color: white;"> Olá, eu sou o Leonardo da Nave 👋 </h1>
-
-- 📚 Formado em Análise e Desenvolvimento de Sistemas
+- 📚 Formado em Análise e Desenvolvimento de Sistemas pela SPTech
 - 🧾 UX/UI Designer / Software Developer / Data Analyst
-- <span style="color: white;"><b></></b></span> Atualmente trabalhando como desenvolvedor front-end, mas com o foco de transicionar minha carreira para a área de dados.
+- <span style="color: white;"><b></></b></span> **Atualmente com o foco de transicionar minha carreira para a área de dados.**
 - 📧 Contato: <span style="color: rgb(0, 202, 216);">leonardodanave@outlook.com
 
-<br>
-<div>
-    <a href="beacons.ai/leodanave">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leodanave&layout=compact&langs_count=16&theme=tokyonight"/>
-</div>
+<h1 style="color: white;">Hard Skills 👨‍💻</h1>
 
-<h1></h1>
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
 
-<div>
-    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="">
-    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="">
-    <img src="https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white" alt="">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="">
-    <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge" alt="">
-    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="">
-</div>
+<h1 style="color: white;">GitHub Stats 👇</h1>
 
-<h1></h1>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leodanave&theme=transparent&bg_color=111&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=30A3DC&text_color=FFF)
 
-<h1>
-    <span style="color: white;">Social Media <br><br>
-    <a href="https://www.linkedin.com/in/leonardo-da-nave-a44039200/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=""></a>
-</h1>
+<h1 style="color: white;">Social Media</h1>
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-da-nave/)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:leonardodanave@outlook.com)
