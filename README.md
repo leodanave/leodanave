@@ -1,9 +1,10 @@
-<h1 style="color: white;"> Leonardo da Nave 👋 </h1>
+<h1 style="color: white;"> Hey! 👋 </h1>
 
-- 📚 Formado em Análise e Desenvolvimento de Sistemas pela SPTech
+- Working at BRQ 🦁
 - 🧾 UX/UI Designer / Software Developer / Data Analyst
-- <span style="color: white;"><b></></b></span> **Atualmente com o foco de transicionar minha carreira para a área de dados.**
-- 📧 Contato: <span style="color: rgb(0, 202, 216);">leonardodanave@outlook.com
+- <span style="color: white;"><b></></b></span> **Currently focused on transitioning my career to Data Engineering.**
+- Love playing some FPS games 🖱️
+- 📧 Contact: <span style="color: rgb(0, 202, 216);">leonardodanave@outlook.com
 
 <h1 style="color: white;">Hard Skills 👨‍💻</h1>
 
