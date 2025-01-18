@@ -4,7 +4,7 @@
 
 - 🦁 Working at BRQ 
 - 🧾 UX/UI Designer / Software Developer / Data Analyst
-- <span style="color: white;"><b></></b></span> **Currently focused on transitioning my career to CRM.**
+- <span style="color: white;"><b></></b></span> **Currently focused on transitioning my career to Data Analytics.**
 - 🖱️ Love playing some FPS games 
 - 📧 Contact: <span style="color: rgb(0, 202, 216);">leonardodanave@outlook.com
 
